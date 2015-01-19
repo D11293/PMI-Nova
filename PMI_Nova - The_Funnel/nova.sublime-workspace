@@ -1,0 +1,695 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"al",
+				"algerian"
+			],
+			[
+				"bl",
+				"Black"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"PADD",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"boder-",
+				"border-spacing"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"inde",
+				"z-index"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bacground",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"B",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"ptitColonne1",
+				"ptitColonne10"
+			],
+			[
+				"ptitC",
+				"ptitColonne4"
+			],
+			[
+				"D",
+				"Diagonale2"
+			],
+			[
+				"pti",
+				"ptitDiagonale2"
+			],
+			[
+				"pt",
+				"ptitLigne1"
+			],
+			[
+				"ptitColo",
+				"ptitColonne1"
+			],
+			[
+				"ptitD",
+				"ptitDiagonale1"
+			],
+			[
+				"Dia",
+				"Diagonale1"
+			],
+			[
+				"va",
+				"val_min"
+			],
+			[
+				"Col",
+				"Colonne1"
+			],
+			[
+				"Co",
+				"Colonne1"
+			],
+			[
+				"Li",
+				"Ligne4"
+			],
+			[
+				"W",
+				"while"
+			],
+			[
+				"Ca",
+				"Carre2"
+			],
+			[
+				"carr",
+				"Carre1"
+			],
+			[
+				"tr",
+				"trouvé"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"borderr",
+				"border-right"
+			],
+			[
+				"joueu",
+				"joueurs"
+			],
+			[
+				"mei",
+				"meilleurJoueur"
+			],
+			[
+				"j",
+				"Joueur"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"de",
+				"text-decoration"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"M",
+				"Manche1"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"nom",
+				"nomJoueur"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"Joue",
+				"Joueur1"
+			],
+			[
+				"Man",
+				"Manche1"
+			],
+			[
+				"Ma",
+				"Manche2"
+			],
+			[
+				"E",
+				"Etape2"
+			],
+			[
+				"mys",
+				"mystere"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bacg",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"spac",
+				"border-spacing"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"op",
+				"operateur"
+			],
+			[
+				"pr",
+				"prompt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/dgerber/Desktop/Test/flexbox-grid/index.html",
+			"settings":
+			{
+				"buffer_size": 5302,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/scripts",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass"
+	],
+	"file_history":
+	[
+		"/C/Users/dgerber/Desktop/Site Sportif/styles/sass/_nova.scss",
+		"/C/Users/dgerber/Desktop/Site Sportif/scripts/main.js",
+		"/C/Users/dgerber/Desktop/Site Sportif/iframe.html",
+		"/C/Users/dgerber/Desktop/Site Sportif/index.html",
+		"/C/Users/dgerber/Desktop/Nouveau dossier/6%20-%20HTML/funnel_withContent.html",
+		"/C/Users/dgerber/Desktop/Nouveau dossier/6%20-%20HTML/funnel.html",
+		"/C/Users/dgerber/Desktop/Site Sportif/styles/sass/_bootstrap.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/index.html",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/_nova.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/_bootstrap.scss",
+		"/C/Users/dgerber/myproject/config.rb",
+		"/C/Users/dgerber/Desktop/Compte à rebours.bat",
+		"/C/Users/dgerber/Desktop/PMI_Nova - Getting_Started/styles/sass/_nova.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/main.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/scripts/main.js",
+		"/C/Users/dgerber/Desktop/PMI_Nova - Getting_Started/styles/main.css",
+		"/C/wamp/www/magento/skin/frontend/rwd/default/css/madisonisland.css",
+		"/C/wamp/www/magento/skin/frontend/base/default/css/widgets.css",
+		"/C/wamp/www/magento/index.php",
+		"/C/Users/dgerber/Desktop/PMI_Nova - Getting_Started/index.html",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/vendors/_bootstrap-theme.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/vendors/bootstrap-theme.css",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/scripts/bootstrap.js",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/_bootstrap.css",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/_variables.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/main.css",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/scripts/min/main.min.js",
+		"/C/Users/dgerber/Desktop/PMI_Nova - Getting_Started/styles/sass/main.scss",
+		"/C/Users/dgerber/AppData/Local/Temp/Temp1_PMI_Nova-Getting_Started_V5.zip/index.html",
+		"/C/Users/dgerber/AppData/Local/Temp/Temp1_PMI_Nova-Getting_Started_V5.zip/styles/sass/_nova.scss",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/PMI_Nova - The_Funnel/styles/sass/_nova.scss",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/PMI_Nova - The_Funnel/index.html",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/PMI_Nova/index.html",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/PMI_Nova - The_Funnel/styles/main.css",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/bootstrap/js/bootstrap.js",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/styles/sass/_normalize.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova - The_Funnel/bootstrap/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/PMI_Nova/styles/sass/main.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova/nova.sublime-project",
+		"/C/Users/dgerber/Desktop/Exercice/Sudoku/style.css",
+		"/C/Users/dgerber/Desktop/Exercice/Sudoku/Index.html",
+		"/C/Users/dgerber/Desktop/PMI_Nova/styles/sass/_variables.scss",
+		"/C/Users/dgerber/Desktop/PMI_Nova/index.html",
+		"/C/Users/dgerber/Desktop/PMI_Nova/styles/sass/_nova.scss",
+		"/C/Users/dgerber/Desktop/Exercice/Index.html",
+		"/C/Users/dgerber/Desktop/Exercice/bonne Combinaison X9/Index.html",
+		"/C/Users/dgerber/Desktop/PMI_Nova/styles/main.css",
+		"/C/Users/dgerber/Desktop/PMI_Nova/scripts/main.js",
+		"/C/Users/dgerber/Desktop/PMI_Nova/config.rb",
+		"/C/Users/dgerber/Desktop/ICRC Version Bootstrap/index.html",
+		"/C/Users/dgerber/Desktop/Exercice/Sudoku/bootstrap-3.2.0/dist/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/Test.html",
+		"/C/Users/dgerber/Desktop/Test/flexbox-grid/index.html",
+		"/C/Users/dgerber/Desktop/Exercice/bonne Combinaison/Index.html",
+		"/C/Users/dgerber/AppData/Local/Temp/Temp1_emmet-sublime-master.zip/emmet-sublime-master/editor.js",
+		"/C/Users/dgerber/Desktop/Exercice/nombre Mystère/Index.html",
+		"/C/Users/dgerber/Desktop/exemple.html",
+		"/C/Users/dgerber/Desktop/Exercice/bonne Combinaison X9/style.css",
+		"/C/Users/dgerber/Desktop/Exercice/bonne Combinaison/style.css",
+		"/C/Users/dgerber/Desktop/Exercice/nombre Mystère - Copie/style.css",
+		"/C/Users/dgerber/Desktop/Exercice/nombre Mystère/style.css",
+		"/C/Users/dgerber/Desktop/Exercice/nombre Mystère - Copie/Index.html",
+		"/C/Users/dgerber/Desktop/Index2.html",
+		"/C/Users/dgerber/Desktop/ICRC Version Bootstrap/style.css",
+		"/C/Users/dgerber/Desktop/script.js",
+		"/C/Users/dgerber/Desktop/style2.css",
+		"/C/Users/dgerber/Downloads/roncioso-Flip-jQuery-5f5d9a4.tar.gz",
+		"/C/Users/dgerber/Desktop/Index.html",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/style.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/ICT-service/index.html",
+		"/C/Users/dgerber/Desktop/ICRC Version Bootstrap/index2.html",
+		"/C/Users/dgerber/Desktop/ICRC Version Bootstrap/style2.css",
+		"/C/Users/dgerber/Desktop/ICRC Version Bootstrap/bootstrap-3.2.0/dist/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/ICRC/style.css",
+		"/C/Users/dgerber/Desktop/ICRC/bootstrap.css",
+		"/C/Users/dgerber/Desktop/ICRC/index.html",
+		"/C/Users/dgerber/Desktop/style.css",
+		"/C/Users/dgerber/Desktop/exemple animation CSS/style.css",
+		"/C/Users/dgerber/Desktop/rectangle/style.css",
+		"/C/Users/dgerber/Desktop/rectangle/index.html",
+		"/C/Users/dgerber/Desktop/Exercices/index2.html",
+		"/C/Users/dgerber/Desktop/Exercices/index.html",
+		"/C/Users/dgerber/Desktop/Exercices/Exercice.html",
+		"/C/Users/dgerber/Desktop/exemple animation CSS/index.html",
+		"/C/Users/dgerber/AppData/Local/Temp/Temp1_showcase-font-family.zip/css/style.css",
+		"/C/Users/dgerber/AppData/Local/Temp/Temp1_showcase-font-family.zip/css/reset.css",
+		"/F/Stage/programmationWeb 1/EXERCICES/2-Variables/boucle2.html",
+		"/F/Stage/programmationWeb 1/EXERCICES/2-Variables/boucle2.js",
+		"/F/Stage/programmationWeb 1/EXERCICES/2-Variables/boucle1.html",
+		"/F/Stage/programmationWeb 1/EXERCICES/2-Variables/scriptb1.js",
+		"/F/Stage/programmationWeb 1/EXERCICES/3-ObjetEtEvenements/minimalism/index.html",
+		"/C/Users/dgerber/Desktop/Mon 1er Site Bootstrap/index.html",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/canton_Vaud/styles/custom_sqli.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/canton_Vaud/index.html",
+		"/C/Users/dgerber/Desktop/Mon 1er Site Bootstrap/bootstrap/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/canton_Vaud/styles/gmailpopup.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/canton_Vaud/styles/variables.css",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/bootstrap-3.2.0/docs/examples/carousel/carousel.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/ICT-service/js/custom.js",
+		"/C/Users/dgerber/Desktop/ICRC/bootstrap-3.2.0/dist/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/ICT-service/styles/fancybox.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/ICT-service/js/vendors.js",
+		"/C/Users/dgerber/Desktop/index.html",
+		"/C/Users/dgerber/Desktop/index2.html",
+		"/C/Users/dgerber/Desktop/Exercice.html",
+		"/C/Users/dgerber/Desktop/exemple animation CSS/index",
+		"/C/Users/dgerber/Desktop/ICRC/Jour.js",
+		"/C/Users/dgerber/Desktop/ICRC/Date.js",
+		"/C/Users/dgerber/Desktop/ICRC/css/style.css",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/ICT-service/styles/global.css",
+		"/F/Stage/programmationWeb 1/EXERCICES/6-Tableaux/citations/index.html",
+		"/F/Stage/programmationWeb 1/EXERCICES/1-Bases/minimalism/index1_07.html",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/RomandeEnergie/404.html",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/ICT-service/base/homex3.html",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/bootstrap-3.2.0/docs/Test.html",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/bootstrap-3.2.0/docs/assets/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/bootstrap-3.2.0/Test.html",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/Test.html",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/15_JAVASCRIPT/15.24/script.js",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/01_CSS/01.01/stylesheet.css",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/01_CSS/01.01/index.html",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/bootstrap-3.2.0/dist/css/bootstrap.css",
+		"/C/Users/dgerber/Desktop/bootstrap-3.2.0/bootstrap-3.2.0/dist/css/bootstrap.min.css",
+		"/C/Users/dgerber/AppData/Local/Temp/Temp1_bootstrap-3.2.0.zip/bootstrap-3.2.0/dist/js/bootstrap.js",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/06_HTML/06.03/index.html",
+		"/C/Users/dgerber/Desktop/Working Copy/_SVN_/Front-end-DGE/EXAMPLES_works/canton_Vaud/js/bootstrap_standard.js",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/16_JAVASCRIPT (Pas fini)/16.02/script.js",
+		"/C/Users/dgerber/Desktop/Exercices/CodeAcademy/15_JAVASCRIPT/15.30/script.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Ligue2",
+			"nav",
+			".js",
+			"!==",
+			";\n",
+			"sera",
+			"}\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/dgerber/Desktop/Test/flexbox-grid/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "nova.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

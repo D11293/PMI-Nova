@@ -1,0 +1,162 @@
+
+body{
+ margin: 0 auto;
+ font-family: arial
+}
+#nova{
+width: 1920px; 
+margin-left: auto; 
+margin-right: auto; 
+/*Engloblement du header avec le sub_header*/
+	.qmarkets{
+		text-align: center;
+		height: 124px;
+		width:1920px;
+		background:url(../img/background_menu.png);
+	}
+	.header{
+		background: url(../img/getting-started_banner.jpg) top left no-repeat;
+		height: 400px;
+		margin-top: -4px;
+		color:#170d4c;
+	.navigation{
+			padding-top: 30px;
+			margin-left:60px;
+			font-size: 11.7px;
+			a{	
+		
+				color:#170d4c;
+			}
+		}
+		p {
+			margin-left:60px; 
+			width: 50%;
+		}
+		h1{
+
+			margin-left:60px; 
+		}
+
+	 }
+	 .text995{
+	 	width:995px;
+		margin-left: auto; 
+		margin-right: auto; 
+	 }
+	.sub_header{
+		color:#170d4c;
+		h2{
+			margin-left:60px; 
+			color:#3c5595;
+		}
+		p{
+			margin-left:60px; 
+			width: 50%;
+		}
+		img{
+
+			float:right;
+			margin-right: 70px;
+			margin-left: 40px;
+		}
+	}
+	.col{
+		width:50%;
+		float:right;
+		margin-left: 115px;
+		margin-right:20px;
+	}	
+	.container{
+		width:995px;
+		margin-left: auto; 
+		margin-right: auto; 
+	}
+	.col2{
+		margin-bottom: 50px;
+		margin-left:60px; 
+		margin-right: 110px;
+		p{
+		width: 50%;
+		color:#170d4c;
+	}
+		h2{
+			color:#3c5595;
+		}
+
+	}
+	.col1{
+		width:50%;
+		float:right;
+		margin-left: 100px;
+		margin-right:-100px;
+	}	
+	.lightbulb{
+		/*border:2px solid;*/
+		margin-left: 80px;
+	}
+	.thumbsup{
+		/*border:2px solid;*/
+	}
+	.tags{
+		/*border:2px solid;*/
+		margin-left:-10px;
+	}
+	.network{
+		/*border:2px solid;*/
+		margin-left: 60px;
+	}
+
+	.separation{
+		width:995px;
+		margin-bottom: 60px;
+		margin-top: 80px;
+		height: 5px;
+		background-color:#e6e4eb;
+}
+	.footer{
+/*
+	.visual{
+		background: url(../img/footer_block.png) top left no-repeat;
+		display: block;
+		height:81px;
+	}
+*/
+	margin-top: 90px;
+	.copyright{
+		width: 1920px;
+		background-color:#eaeaea;
+		font-size: 11px;
+			padding:4px 0  4px 0px;
+			margin-top:-10px;
+	p{
+
+		margin-left: 520px;
+		padding: 0;
+	}
+		a{
+			color:#000;
+		}
+	}
+}
+
+.paragraph {
+	clear: both;
+}
+.footer:before{
+	content:'';
+	background: url(../img/footer_block.png) top left no-repeat;
+		display: block;
+		height:168px;
+
+
+}
+
+	.shadow{
+		
+		margin-top:78px;
+		margin-left:40px; 
+		background: url(../img/shdw.png) no-repeat;
+		height: 81px;
+		width:995px;
+	}
+}
